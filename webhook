@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Sverrekven/ya-mum.git
+git push -u origin master
+send "hello world"
